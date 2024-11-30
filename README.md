@@ -1,0 +1,1 @@
+# terraform-module-aws-synthetic-canary
